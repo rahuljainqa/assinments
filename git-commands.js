@@ -1,6 +1,7 @@
 //1. git init => to monitor all changes in the project
 
-//2. git remote add origin https://github.com/rahuljainqa/assinments.git
+//2. git remote add origin 
+
 
 //3. git config --global user.name "rahuljain"
 
@@ -11,4 +12,5 @@
 //6. git commit -m "message" => to commit the changes in the local repository
 
 //7. git push origin master => to push the changes in the remote repository
+
 
